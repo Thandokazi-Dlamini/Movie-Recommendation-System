@@ -30,3 +30,8 @@ Surprise Framework: Usage of the 'Surprise' framework, a Python scikit for build
 # Results and Evaluation
 Model Testing: Testing the model using a 10% hold-out test set.
 Predictions: Generating predictions to evaluate the model's performance.
+
+# Code and Notebook
+For a detailed view of the analysis and modeling, you can access the Jupyter Notebook:
+- [Movie Recommender System Notebook](https://github.com/Thandokazi-Dlamini/Movie-Recommendation-System/blob/main/Movie%20Recommender%20System.ipynb)
+
